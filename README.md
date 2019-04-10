@@ -1,5 +1,5 @@
-*** Primes Challenge
+# Primes Challenge
 
-** How to Run
+## How to Run
 python primes/primes.py 10
 
